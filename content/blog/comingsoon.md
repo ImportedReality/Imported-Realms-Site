@@ -9,3 +9,5 @@ Imported Realms is coming soon to a minecraft client near you!
 Once applications have opened up there will be an announcement blog post.
 
 Subscribe via RSS [here](../index.xml) or check back later.
+
+![world preview](/images/CherryGrove.png)
