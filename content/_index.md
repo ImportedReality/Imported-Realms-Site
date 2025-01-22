@@ -1,6 +1,6 @@
 ---
 date: '2025-01-21T12:30:21-07:00'
-draft: true
+draft: false
 title: 'Imported Realms'
 ---
 
@@ -15,5 +15,6 @@ This is the website for the Imported Realms minecraft server! Here you can find 
 ## Explore
 
 {{< cards >}}
-    {{< card link="docs" title="Documentation" icon="book-open" >}}
+    {{< card link="docs" title="Documentation" subtitle="learn about the server and the world" icon="book-open" >}}
+    {{< card link="blog" title="Blog" subtitle="catch up on announcements, highlights, and more!" icon="book-open" >}}
 {{< /cards >}}

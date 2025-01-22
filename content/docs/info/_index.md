@@ -1,6 +1,6 @@
 ---
 date: '2025-01-21T12:59:41-07:00'
-draft: true
+draft: false
 title: 'Server Info'
 weight: 1
 ---

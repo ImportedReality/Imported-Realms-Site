@@ -1,6 +1,6 @@
 ---
 date: '2025-01-21T16:27:03-07:00'
-draft: true
+draft: false
 linkTitle: 'Connecting'
 title: 'Connecting to the Server'
 weight: 7

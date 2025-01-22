@@ -1,6 +1,6 @@
 ---
 date: '2025-01-21T16:37:31-07:00'
-draft: true
+draft: false
 title: 'The World'
 weight: 2
 ---

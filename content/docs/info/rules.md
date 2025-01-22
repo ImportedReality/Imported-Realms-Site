@@ -1,10 +1,10 @@
 ---
 date: '2025-01-21T13:15:29-07:00'
-draft: true
+draft: false
 title: 'Server Rules'
 weight: 1
 ---
-1. First and foremost, this server is a place for people to have fun and enjoy themselves
+1. First and foremost, this server is a place for people to have fun, build cool things, and enjoy themselves
 2. Treat everyone with respect. Harassment, bullying, and hateful language will not be tolerated.
 3. Discrimination or hate speech of any kind based on race, gender identity, sexuality, or other immutable characteristics will not be tolerated.
 4. Do not spam the chat with repetitive messages, caps, or unnecessary links.

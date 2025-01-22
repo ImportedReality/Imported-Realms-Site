@@ -1,6 +1,6 @@
 ---
 date: '2025-01-21T21:47:03-07:00'
-draft: true
+draft: false
 title: 'Blog'
 ---
 <div style="text-align: center; margin-top: 1em;">
