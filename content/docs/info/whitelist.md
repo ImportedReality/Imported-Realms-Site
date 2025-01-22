@@ -8,7 +8,7 @@ weight: 5
 In order to ensure a quality experience for players, this server is whitelist-only. 
 
 {{< callout type="info" >}}
-There are currently **50** whitelist slots available.
+There are currently **75** whitelist slots available.
 {{< /callout >}}
 
 Apply to the whitelist [here](https://docs.google.com/forms/d/e/1FAIpQLScIpC5ZFEZLrZnIIZy6blEkP7Q9E0n432X5uyXqoagm-qdlSQ/viewform?usp=header)

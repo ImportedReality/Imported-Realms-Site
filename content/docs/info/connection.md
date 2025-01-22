@@ -14,3 +14,4 @@ There is also a map that can be viewed via web browser:
 
 >[minecraft.importedreality.com/map/](https://minecraft.importedreality.com/map/)
 
+or on this [page](../../../map)

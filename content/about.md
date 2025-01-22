@@ -18,4 +18,4 @@ There are currently no other staff members. If a need arises, there will be a pu
 
 ## The server
 
-The server lives on an old PC with an intel i5-4460 and 8GB RAM. It can probably max out at 90 players, but to be safe and ensure there is plenty of headroom for mods the cap is set to 50 players.
+The server lives on an old PC with an intel i5-4460 and 8GB RAM. It can probably max out at 90 players, but to be safe and ensure there is plenty of headroom for mods the cap is set to 75 players.

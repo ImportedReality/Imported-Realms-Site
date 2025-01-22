@@ -16,13 +16,17 @@ The server is running the following mods:
 - Copper Items
 - CoreProtect
 - EssentialsX
-- EssentialsX Chat
-- EssentialsX Spawn
+    - Core
+    - Chat
+    - Spawn
+- GSit
+- Hsrails
 - LuckPerms
 - Squaremap
 - Vault
 - ViaBackwards
 - ViaVersion
+- WildLoaders
 
 If enough players request a specific mod, it will be taken into consideration.
 
@@ -36,4 +40,4 @@ If you are looking for suggestions, I am personally a fan of the [Immersed with 
 
 ## Resource Packs
 
-Currently the server does not provide any resource packs as I view that as a matter of personal taste. I personally like to use and recommend the [DefaultHD](https://www.curseforge.com/minecraft/texture-packs/default-hd) resource pack.
+Currently the server does not provide any resource packs that are not required by any of the above mods as I view that as a matter of personal taste. I personally like to use and recommend the [DefaultHD](https://www.curseforge.com/minecraft/texture-packs/default-hd) resource pack.
