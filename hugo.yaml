@@ -1,0 +1,42 @@
+baseURL: https://minecraft.importedreality.com/
+languageCode: en-us
+title: Imported Realms
+module:
+  imports:
+    - path: github.com/imfing/hextra
+menu:
+  main:
+    - name: Documentation
+      pageRef: /docs
+      weight: 1
+    - name: Blog
+      pageRef: /blog
+      weight: 2
+    - name: About
+      pageRef: /about
+      weight: 3
+    - name: Search
+      weight: 4
+      params:
+        type: search
+    - name: Bluesky
+      weight: 5
+      url: "https://bsky.app/profile/importedreality.com"
+      params:
+        icon: bluesky
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: logo.svg
+      dark: logo-dark.svg
+      link: /
+      width: 40
+      heigh: 20
+  footer:
+    displayCopyright: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
